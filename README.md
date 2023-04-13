@@ -1,1 +1,21 @@
-### Hi there 👋
+# Hi there 👋
+I'm in the middle of my junoir year of college, so things are going quite slowly for hobby projects. My mind is also slowly dying, but who really cares about that?
+
+## My Projects
+
+My current hobby project is recreating minecraft b1.7.3 in rust, aiming to have parity with vanilla while using more modern concepts like the [resourcepack](https://minecraft.fandom.com/wiki/Tutorials/Models#Block_models) system for blockstates/models, and WGPU/vulkan.
+If you want to learn more about this project, look at my repository for [Orange-rs](https://github.com/jaquobia/Orange-rs), and the currently active branch is test/
+
+I've recently worked on a babric (beta fabric) mod for b1.7.3 called [Nawt](https://github.com/jaquobia/Nawt), which aims to replace the  windowing system of b1.7.3 with an api replaceable backend that defaults to glfw. I plan to give nawt full compatibility with StationAPI (when its complete), and maybe even derive more api's for better performance and customizability, such as controllers, default applications, or cursors.
+
+## My Adventure with Linux
+Within the past year and a half, I've been using linux, specifically Endeavour-OS, a distribution or Arch Linux. My journey started with KDE, I liked it, but something felt off about the style and compositor. After moving to an SSD, I decided to also try out the Cinnamon desktop, which I found I enjoyed quite a lot. KDE and Cinnamon were quite close to the feeling of Windows to me, and that made my transition to linux much easier. After about a month on Cinnamon, I wanted to try out what arch linux was really there to offer me: Tiling Window Managers.
+
+  Despite tiling window managers having a limited desktop-like experience, I found myself using it as fluently as a normal desktop, maybe even better. I probably used AwesomeWM first, which my friend got me into for the Lua based configuration. Awesome does an amazing job of customizability and control, but I didn't stick to it long, as I quickly jumped into BSPWM, which I loved. I probably used bspwm for half a year or so with default themes, and didn't ever really regret it. It gave me almost exactly what I was looking for in a tiling wm - a set of tiling modes that were either easy to manage, or forget-able without impacting my experience.
+
+  The reason im not using bspwm anymore is because I got hit with the "ooh, new shiny!" mentality and tried out wayland. I first tried River since it supposedly had configurability to be like Bspwm, but I was disappointed with it since it had weird issues with resizing and window positioning. Don't ask me what those issues were, I didn't use it long enough to commit them to memory. I decided to just use Sway after that, and I was not dissapointed. Sway had amazing tools and documentation that let me set up a decent desktop quickly. With some keybind tweaks, I was using sway as easily as I used bspwm. and I was using it for about two months. Now for the past week or so (Its the second week of April, 2023), I've been testing the waters with Hyprland, which feels just as good as Sway and has some nice customization with the compositor - im using some subtle animations and transparency.
+  
+  During my time with Linux so far, I've come to understand a lot more about computers, and have become a lot more familar with developing code. Compared to Windows, linux is 100% better for developers that want to develop for cross-platform and want to use an OS that doesn't eat a quarter of your RAM. The only issues with Linux is the screensharing capabilities and performance of windows-only games. Proton does great for most cases, but some of the modern games like the Call Of Duty's cant be played because of anticheats or performance. Windows comes with first class support for anything that runs on it, and has IDE's like Visual Studio that make programming in c++ a breeze. Besides games, the only reason I dual-boot windows is for school work, since some classes need me to use propreitary applications for browsers in order to take proctored tests. It is the most bullshit reason to need to stay with Windows, but I must. 
+
+## Closing
+I will end this readme thingy here, the github editor is getting laggy and I'm running out of things to talk about
